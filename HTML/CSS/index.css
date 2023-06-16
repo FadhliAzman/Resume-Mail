@@ -1,0 +1,27 @@
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.vandata {
+    width: 400px;
+    height: 200px;
+}
+
+h1 { 
+    color: aquamarine;
+}
+
+nav { 
+    display: contents;
+}
+
+a {
+    all: unset ;
+    padding: 8px 16px;
+}
+
+body {
+    text-align: center;
+}
+
